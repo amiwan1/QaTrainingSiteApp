@@ -1,0 +1,15 @@
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/bin/Debug/net6.0/TrainingSite
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/bin/Debug/net6.0/TrainingSite.deps.json
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/bin/Debug/net6.0/TrainingSite.runtimeconfig.json
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/bin/Debug/net6.0/TrainingSite.dll
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/bin/Debug/net6.0/TrainingSite.pdb
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.csproj.AssemblyReference.cache
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.AssemblyInfoInputs.cache
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.AssemblyInfo.cs
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.csproj.CoreCompileInputs.cache
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.dll
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/refint/TrainingSite.dll
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.pdb
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/TrainingSite.genruntimeconfig.cache
+/Users/aaron.mason/Projects/TrainingSite/TrainingSite/obj/Debug/net6.0/ref/TrainingSite.dll
